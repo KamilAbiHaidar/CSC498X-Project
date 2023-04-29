@@ -9,7 +9,7 @@ The team consists of two students:
 
 ## Project Idea and Technology:
 
-The project is an ecommerce app used for a pet store. The store offers pet supplies and includes login, signup, a homepage, a wishlist, a cart and an edit profile page. It also includes an about us and a contact us page.
+The project is an ecommerce app used for a pet store. The store offers pet supplies and includes login, signup, a homepage, a wishlist, a cart and an edit profile page. It also includes an about us and a contact us page. The app was build using React Native
 
 ## Running the app
 
