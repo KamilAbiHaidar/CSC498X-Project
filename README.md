@@ -7,7 +7,7 @@ The team consists of two students:
 - Kamil Abi Haidar - ID# 202002989
 - Mia Najwa Zebian - ID# 202003137
 
-##Project Idea and Technology:
+## Project Idea and Technology:
 
 The project is an ecommerce app used for a pet store. The store offers pet supplies and includes login, signup, a homepage, a wishlist, a cart and an edit profile page. It also includes an about us and a contact us page.
 
